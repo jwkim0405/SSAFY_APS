@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="day01_0729월/src"/>
+	<classpathentry excluding="정렬/" kind="src" path="day02_0730화/src"/>
+	<classpathentry kind="src" path="day02_0730화/src/정렬"/>
+	<classpathentry kind="src" path="day05_0805월/src"/>
+	<classpathentry kind="src" path="day06_0806화/src"/>
+	<classpathentry kind="src" path="day07_0807수/src"/>
+	<classpathentry kind="src" path="day08_0808목/src"/>
+	<classpathentry kind="src" path="day10_0813화/src"/>
+	<classpathentry kind="src" path="day11_0814수/src"/>
+	<classpathentry kind="src" path="day12_0816금/src"/>
+	<classpathentry kind="src" path="day13_0826월/src/자료구조"/>
+	<classpathentry kind="src" path="day21_0905목/src/크루스칼"/>
+	<classpathentry kind="src" path="day22_0906금/src/프림다익스트라"/>
+	<classpathentry kind="src" path="day23_0909월/src/위상정렬"/>
+	<classpathentry kind="src" path="day24_0910화/src"/>
+	<classpathentry kind="src" path="day25_0911수/src"/>
+	<classpathentry kind="src" path="day26_0912목/src"/>
+	<classpathentry kind="src" path="day27_0912금/src/패턴매칭과PJT"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
