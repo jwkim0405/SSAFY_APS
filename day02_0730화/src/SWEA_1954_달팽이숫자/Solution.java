@@ -33,7 +33,7 @@ class Solution
            } 
             System.out.println("#" + (k+1)); 
             print(data);
-
+            int a = 3;
         }
     }
 	
