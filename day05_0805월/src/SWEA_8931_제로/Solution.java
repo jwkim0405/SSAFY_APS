@@ -21,7 +21,6 @@ public class Solution {
 			for (int j = 0; j < K; j++) {
 				int num = sc.nextInt();
 				
-				
 				// if: 숫자가 0이면 pop
 				if (num == 0) pop();
 				// else:(0이 아니면) 숫자를 배열에 넣는다.
@@ -44,6 +43,7 @@ public class Solution {
 	static void push(int num) {
 		top++;
 		arr.add(num);
+
 	}
 
 	// stack의 pop 연산
