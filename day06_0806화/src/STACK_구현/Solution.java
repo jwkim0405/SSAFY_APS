@@ -44,6 +44,5 @@ public class Solution {
 		static boolean isEmpty() {
 			return top == -1;
 		}
-		
 	}
 }
