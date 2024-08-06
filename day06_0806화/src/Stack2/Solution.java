@@ -26,7 +26,6 @@ public class Solution {
 		map.put('*', 2);
 		map.put('/', 2);
 		map.put('(', 0);
-		map.ke
 		
 		// infix 문자열의 길이만큼 반복
 		for (int i = 0; i < infix.length(); i++) {
