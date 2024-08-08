@@ -2,7 +2,7 @@ package Queue2_개인실습;
 
 import java.util.Arrays;
 
-public class Queue_과제_삽입정렬 {
+public class Queue_삽입정렬 {
 	public static void main(String[] args) {
 		
 		int[] arr = new int[] {69, 10, 30, 2, 16, 8, 31, 22};
