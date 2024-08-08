@@ -1,4 +1,4 @@
-package Queue2;
+package Queue2_개인실습;
 
 import java.util.Arrays;
 
@@ -15,7 +15,7 @@ public class Queue_과제_삽입정렬 {
 		int j;
 		
 		// ** j값을 for문 밖에서 선언한다는 아이디어
-		// ** if~else문이 아니라 for문의 조건식 자리에 &&를 넣어 구현할수도 있음.
+		// ** if~else문이 아니라 for문의 조건식 자리에 &&를 넣어 구현할수도 있음.dnjsg
 		for (int i = 1; i < N; i++) {
 			int data = arr[i];
 			for (j = i-1; j >= 0; j--) {

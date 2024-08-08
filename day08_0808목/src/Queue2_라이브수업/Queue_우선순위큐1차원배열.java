@@ -1,4 +1,4 @@
-package Queue2;
+package Queue2_라이브수업;
 
 import java.util.Arrays;
 
