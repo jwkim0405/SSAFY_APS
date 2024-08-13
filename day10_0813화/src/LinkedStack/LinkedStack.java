@@ -19,7 +19,7 @@ class Stack {
 	// 삽입
 	// *** push 메서드 다시 짜보기
 	// head.link가 null을 가리킬 때를 따로 고려해줘야 함.
-	// head.link가 null인데 그 null을 curr에 저장해놓고, curr = newNode를 하면 null에다가 저장하는 느낌?
+	// 첫 코드 실수: head.link가 null인데 그 null을 curr에 저장해놓고, curr = newNode를 하면 null에다가 저장하는 느낌?
 	void push(String data) {
 		Node newNode = new Node();
 		newNode.data = data;
