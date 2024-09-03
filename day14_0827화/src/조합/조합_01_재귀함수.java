@@ -37,9 +37,9 @@ public class 조합_01_재귀함수 {
 		// 해당 idx 번째 재료를 사용했는지 안했는지
 		sel[sidx] = ingredient[idx];
 		combination(idx+1, sidx+1);
+		combination(idx+1, sidx); // 햄버거의 실제 재료를 아직 뽑지 않았다.
 		
 		//재료를 사용하지 않았음.
-		combination(idx+1, sidx); // 햄버거의 실제 재료를 아직 뽑지 않았다.
 	}
 
 }

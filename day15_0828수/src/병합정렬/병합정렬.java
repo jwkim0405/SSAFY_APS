@@ -37,7 +37,6 @@ public class 병합정렬 {
 			} else {
 				tmp[idx++] = arr[R++];
 			}
-			
 		}
 		
 		// 왼쪽 구간의 값이 남았어
